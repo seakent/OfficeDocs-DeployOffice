@@ -48,6 +48,8 @@ For Office 365 ProPlus specifically, the following list describes key areas for 
 
 The second area to focus on when planning an Office 365 ProPlus deployment is application compatibility. The common application compatibility issues when moving to a new version of Office are VBA, macros, third party add-ins, and complex documents. Many customers have a difficult time collecting the relevant data in their environment, as well as defining what components are business critical and which components are used by individuals.
   
+See the Readiness Toolkit to help identify issues with VBA macros and add-ins.  [Readiness Toolkit](https://docs.microsoft.com/en-us/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro?ui=en-US&rs=en-US&ad=US)
+
 To simplify these activities, the following four-phase approach helps to identify the components that must be remediated prior to migrating to Office 365 ProPlus. The process involves leveraging the business users and the Telemetry Dashboard.
   
 |||
